@@ -25,9 +25,9 @@ body {
 
 .notice {
     color: white;
-    max-width: 300px;
+    max-width: 500px;
     padding: 2rem;
-    background: lightyellow;
+    background: rgb(50, 50, 32);
     border: 2px solid yellow;
     /* text-align:; */
 }
