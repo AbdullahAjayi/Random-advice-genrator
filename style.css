@@ -23,8 +23,9 @@ body {
     background: var(--dark-blue);
 }
 
-span {
-    color: white
+.notice {
+    color: white;
+    max-width: 300px;
 }
 
 .container {
