@@ -30,7 +30,7 @@ body {
     background: rgb(50, 50, 32);
     border: 2px solid yellow;
     border-radius: 15px;
-    /* text-align:; */
+    margin-bottom: 1rem;
 }
 
 .container {
