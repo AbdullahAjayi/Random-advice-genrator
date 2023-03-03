@@ -26,6 +26,10 @@ body {
 .notice {
     color: white;
     max-width: 300px;
+    padding: 2rem;
+    background: lightyellow;
+    border: 2px solid yellow;
+    /* text-align:; */
 }
 
 .container {
